@@ -1,0 +1,3 @@
+{:deps
+ {com.sun.mail/javax.mail {:mvn/version "1.6.2"}
+  hiccup/hiccup {:mvn/version "1.0.5"}}}
